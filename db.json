@@ -1,0 +1,106 @@
+{
+  "events": [
+    {
+      "title": "Meeting ",
+      "start": "2023-10-25T04:00:00",
+      "end": "2023-10-25T05:30:00",
+      "id": "1"
+    },
+    {
+      "title": "Lunch Break",
+      "start": "2023-10-28T12:00:00",
+      "end": "2023-10-28T13:00:00",
+      "id": "2"
+    },
+    {
+      "body": {
+        "title": "Team Event bowling",
+        "start": "2023-10-27T10:30:00",
+        "end": "2023-10-27T12:00:00"
+      },
+      "id": "193"
+    },
+    {
+      "title": "Dinner time",
+      "start": "2023-10-26T08:00:00",
+      "end": "2023-10-26T09:00:00",
+      "id": "55"
+    },
+    {
+      "body": {
+        "title": "Clenaing Apartment",
+        "start": "2023-10-27T15:00:00",
+        "end": "2023-10-27T15:30:00"
+      },
+      "id": "392"
+    },
+    {
+      "title": "Hiking in Forests",
+      "start": "2023-10-27T11:30:00",
+      "end": "2023-10-27T12:30:00",
+      "id": "150"
+    },
+    {
+      "title": "vjhghgjvj bhik",
+      "start": "2023-10-28T09:00:00",
+      "end": "2023-10-28T10:00:00",
+      "id": "EghquZ4"
+    },
+    {
+      "body": {
+        "title": "Teamm event",
+        "start": "2023-10-28T11:00:00",
+        "end": "2023-10-28T11:30:00"
+      },
+      "id": "NVRcsny"
+    },
+    {
+      "title": "Vaccum cleaning",
+      "start": "2023-10-29T10:00:00",
+      "end": "2023-10-29T11:00:00",
+      "id": "QF7wNJL"
+    },
+    {
+      "title": "Testing 22",
+      "start": "2023-10-27T07:00:00",
+      "end": "2023-10-27T08:30:00",
+      "id": "1sHvmf5"
+    },
+    {
+      "title": "",
+      "start": "T10:00:00",
+      "end": "T11:00:00",
+      "id": "6sLor8H"
+    },
+    {
+      "title": "hey ",
+      "start": "2023-10-27T10:00:00",
+      "end": "2023-10-27T10:30:00",
+      "id": "I0vvX7i"
+    },
+    {
+      "title": "Clenaing Room",
+      "start": "2023-10-30T10:00:00",
+      "end": "2023-10-30T11:30:00",
+      "id": "iq4flVp"
+    },
+    {
+      "title": "Team retro",
+      "start": "2023-10-30T11:00:00",
+      "end": "2023-10-30T12:30:00",
+      "id": "AE_Luc-"
+    },
+    {
+      "title": "New Screen editing",
+      "start": "2023-10-31T09:00:00",
+      "end": "2023-10-31T11:30:00",
+      "id": "mOPRUB3"
+    },
+    {
+      "title": "New test 22",
+      "start": "2023-10-31T09:00:00",
+      "end": "2023-10-31T10:00:00",
+      "id": "Lr1aUWi"
+    }
+  ]
+}
